@@ -1,1 +1,1 @@
-Contains all the prbolems of Data Structures and Algorithims I have solved.
+Contains all the problems of Data Structures and Algorithims I have solved.
