@@ -1,1 +1,1 @@
-For these problems I do not have the problems description but I believe for most of the problems the name is self explanatory.
+For these problems I do not have the problem description but I believe for most of the problems the name is self explanatory.
