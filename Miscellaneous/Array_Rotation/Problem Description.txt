@@ -1,0 +1,8 @@
+Givne an array of integers and a number k rotate the array by k places.
+
+Example
+
+[1, 2, 3, 4, 5, 6, 7, 8, 9]   
+3
+
+After rotation [7, 8, 9, 1, 2, 3, 4, 5, 6]
